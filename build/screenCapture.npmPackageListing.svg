@@ -1,160 +1,160 @@
 <svg height="2510" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2510" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 15:24:46 +0000   956209 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 15:24:46 +0000      703 bytes  AlertAdapter.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 15:24:46 +0000     3920 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 15:24:46 +0000    21558 bytes  CodePush.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 15:24:46 +0000     1059 bytes  CodePush.podspec</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 15:24:46 +0000     1139 bytes  LICENSE.md</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 15:24:46 +0000    40412 bytes  README.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 15:24:46 +0000     1666 bytes  RestartManager.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 15:24:46 +0000      429 bytes  android/app/build.gradle</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 15:24:46 +0000      963 bytes  android/app/proguard-rules.pro</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 15:24:46 +0000      317 bytes  android/app/src/main/AndroidManifest.xml</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 15:24:46 +0000    11584 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="26">  0.  2017-04-26 05:47:04 +0000   958733 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 05:47:04 +0000      703 bytes  AlertAdapter.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 05:47:04 +0000     3920 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 05:47:04 +0000    21558 bytes  CodePush.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 05:47:04 +0000     1059 bytes  CodePush.podspec</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 05:47:04 +0000     1139 bytes  LICENSE.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 05:47:04 +0000    40412 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 05:47:04 +0000     1666 bytes  RestartManager.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 05:47:04 +0000      429 bytes  android/app/build.gradle</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 05:47:04 +0000      963 bytes  android/app/proguard-rules.pro</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 05:47:04 +0000      317 bytes  android/app/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 05:47:04 +0000    11584 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="218">/react/CodePush.java</tspan>
-<tspan x="10" y="234"> 12.  2017-04-20 15:24:46 +0000     1957 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="234"> 12.  2017-04-26 05:47:04 +0000     1957 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="250">/react/CodePushConstants.java</tspan>
-<tspan x="10" y="266"> 13.  2017-04-20 15:24:46 +0000     3487 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="266"> 13.  2017-04-26 05:47:04 +0000     3487 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="282">/react/CodePushDialog.java</tspan>
-<tspan x="10" y="298"> 14.  2017-04-20 15:24:46 +0000      301 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="298"> 14.  2017-04-26 05:47:04 +0000      301 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="314">/react/CodePushInstallMode.java</tspan>
-<tspan x="10" y="330"> 15.  2017-04-20 15:24:46 +0000      202 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="330"> 15.  2017-04-26 05:47:04 +0000      202 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="346">/react/CodePushInvalidUpdateException.java</tspan>
-<tspan x="10" y="362"> 16.  2017-04-20 15:24:46 +0000      488 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="362"> 16.  2017-04-26 05:47:04 +0000      488 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="378">/react/CodePushMalformedDataException.java</tspan>
-<tspan x="10" y="394"> 17.  2017-04-20 15:24:46 +0000    26127 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="394"> 17.  2017-04-26 05:47:04 +0000    26127 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="410">/react/CodePushNativeModule.java</tspan>
-<tspan x="10" y="426"> 18.  2017-04-20 15:24:46 +0000      326 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="426"> 18.  2017-04-26 05:47:04 +0000      326 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="442">/react/CodePushNotInitializedException.java</tspan>
-<tspan x="10" y="458"> 19.  2017-04-20 15:24:46 +0000     8389 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="458"> 19.  2017-04-26 05:47:04 +0000     8389 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="474">/react/CodePushTelemetryManager.java</tspan>
-<tspan x="10" y="490"> 20.  2017-04-20 15:24:46 +0000      292 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="490"> 20.  2017-04-26 05:47:04 +0000      292 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="506">/react/CodePushUnknownException.java</tspan>
-<tspan x="10" y="522"> 21.  2017-04-20 15:24:46 +0000    14415 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="522"> 21.  2017-04-26 05:47:04 +0000    14415 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="538">/react/CodePushUpdateManager.java</tspan>
-<tspan x="10" y="554"> 22.  2017-04-20 15:24:46 +0000      283 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="554"> 22.  2017-04-26 05:47:04 +0000      283 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="570">/react/CodePushUpdateState.java</tspan>
-<tspan x="10" y="586"> 23.  2017-04-20 15:24:46 +0000     6416 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="586"> 23.  2017-04-26 05:47:04 +0000     6416 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="602">/react/CodePushUpdateUtils.java</tspan>
-<tspan x="10" y="618"> 24.  2017-04-20 15:24:46 +0000     8721 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="618"> 24.  2017-04-26 05:47:04 +0000     8721 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="634">/react/CodePushUtils.java</tspan>
-<tspan x="10" y="650"> 25.  2017-04-20 15:24:46 +0000      895 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="650"> 25.  2017-04-26 05:47:04 +0000      895 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="666">/react/DownloadProgress.java</tspan>
-<tspan x="10" y="682"> 26.  2017-04-20 15:24:46 +0000      128 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="682"> 26.  2017-04-26 05:47:04 +0000      128 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="698">/react/DownloadProgressCallback.java</tspan>
-<tspan x="10" y="714"> 27.  2017-04-20 15:24:46 +0000     6976 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="714"> 27.  2017-04-26 05:47:04 +0000     6976 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="730">/react/FileUtils.java</tspan>
-<tspan x="10" y="746"> 28.  2017-04-20 15:24:46 +0000      483 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="746"> 28.  2017-04-26 05:47:04 +0000      483 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="762">/react/ReactInstanceHolder.java</tspan>
-<tspan x="10" y="778"> 29.  2017-04-20 15:24:46 +0000     4683 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
+<tspan x="10" y="778"> 29.  2017-04-26 05:47:04 +0000     4683 bytes  android/app/src/main/java/com/microsoft/codepush\</tspan>
 <tspan x="10" y="794">/react/SettingsManager.java</tspan>
-<tspan x="10" y="810"> 30.  2017-04-20 15:24:46 +0000      457 bytes  android/build.gradle</tspan>
-<tspan x="10" y="826"> 31.  2017-04-20 15:24:46 +0000     3932 bytes  android/codepush.gradle</tspan>
-<tspan x="10" y="842"> 32.  2017-04-20 15:24:46 +0000      887 bytes  android/gradle.properties</tspan>
-<tspan x="10" y="858"> 33.  2017-04-20 15:24:46 +0000    52266 bytes  android/gradle/wrapper/gradle-wrapper.jar</tspan>
-<tspan x="10" y="874"> 34.  2017-04-20 15:24:46 +0000      200 bytes  android/gradle/wrapper/gradle-wrapper.properties</tspan>
-<tspan x="10" y="890"> 35.  2017-04-20 15:24:46 +0000     5080 bytes  android/gradlew</tspan>
-<tspan x="10" y="906"> 36.  2017-04-20 15:24:46 +0000     2404 bytes  android/gradlew.bat</tspan>
-<tspan x="10" y="922"> 37.  2017-04-20 15:24:46 +0000       14 bytes  android/settings.gradle</tspan>
-<tspan x="10" y="938"> 38.  2017-04-20 15:24:46 +0000     2920 bytes  docs/api-android.md</tspan>
-<tspan x="10" y="954"> 39.  2017-04-20 15:24:46 +0000     3297 bytes  docs/api-ios.md</tspan>
-<tspan x="10" y="970"> 40.  2017-04-20 15:24:46 +0000    41130 bytes  docs/api-js.md</tspan>
-<tspan x="10" y="986"> 41.  2017-04-20 15:24:46 +0000     7984 bytes  docs/setup-android.md</tspan>
-<tspan x="10" y="1002"> 42.  2017-04-20 15:24:46 +0000     8090 bytes  docs/setup-ios.md</tspan>
-<tspan x="10" y="1018"> 43.  2017-04-20 15:24:46 +0000     2721 bytes  docs/setup-windows.md</tspan>
-<tspan x="10" y="1034"> 44.  2017-04-20 15:24:46 +0000     9363 bytes  gulpfile.js</tspan>
-<tspan x="10" y="1050"> 45.  2017-04-20 15:24:46 +0000    23776 bytes  ios/CodePush.xcodeproj/project.pbxproj</tspan>
-<tspan x="10" y="1066"> 46.  2017-04-20 15:24:46 +0000      135 bytes  ios/CodePush.xcodeproj/project.xcworkspace/conte\</tspan>
+<tspan x="10" y="810"> 30.  2017-04-26 05:47:04 +0000      457 bytes  android/build.gradle</tspan>
+<tspan x="10" y="826"> 31.  2017-04-26 05:47:04 +0000     3932 bytes  android/codepush.gradle</tspan>
+<tspan x="10" y="842"> 32.  2017-04-26 05:47:04 +0000      887 bytes  android/gradle.properties</tspan>
+<tspan x="10" y="858"> 33.  2017-04-26 05:47:04 +0000    52266 bytes  android/gradle/wrapper/gradle-wrapper.jar</tspan>
+<tspan x="10" y="874"> 34.  2017-04-26 05:47:04 +0000      200 bytes  android/gradle/wrapper/gradle-wrapper.properties</tspan>
+<tspan x="10" y="890"> 35.  2017-04-26 05:47:04 +0000     5080 bytes  android/gradlew</tspan>
+<tspan x="10" y="906"> 36.  2017-04-26 05:47:04 +0000     2404 bytes  android/gradlew.bat</tspan>
+<tspan x="10" y="922"> 37.  2017-04-26 05:47:04 +0000       14 bytes  android/settings.gradle</tspan>
+<tspan x="10" y="938"> 38.  2017-04-26 05:47:04 +0000     2920 bytes  docs/api-android.md</tspan>
+<tspan x="10" y="954"> 39.  2017-04-26 05:47:04 +0000     3297 bytes  docs/api-ios.md</tspan>
+<tspan x="10" y="970"> 40.  2017-04-26 05:47:04 +0000    41130 bytes  docs/api-js.md</tspan>
+<tspan x="10" y="986"> 41.  2017-04-26 05:47:04 +0000     7984 bytes  docs/setup-android.md</tspan>
+<tspan x="10" y="1002"> 42.  2017-04-26 05:47:04 +0000     8090 bytes  docs/setup-ios.md</tspan>
+<tspan x="10" y="1018"> 43.  2017-04-26 05:47:04 +0000     2721 bytes  docs/setup-windows.md</tspan>
+<tspan x="10" y="1034"> 44.  2017-04-26 05:47:04 +0000     9363 bytes  gulpfile.js</tspan>
+<tspan x="10" y="1050"> 45.  2017-04-26 05:47:04 +0000    23776 bytes  ios/CodePush.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="1066"> 46.  2017-04-26 05:47:04 +0000      135 bytes  ios/CodePush.xcodeproj/project.xcworkspace/conte\</tspan>
 <tspan x="10" y="1082">nts.xcworkspacedata</tspan>
-<tspan x="10" y="1098"> 47.  2017-04-20 15:24:46 +0000     6511 bytes  ios/CodePush/CodePush.h</tspan>
-<tspan x="10" y="1114"> 48.  2017-04-20 15:24:46 +0000    34050 bytes  ios/CodePush/CodePush.m</tspan>
-<tspan x="10" y="1130"> 49.  2017-04-20 15:24:46 +0000     3015 bytes  ios/CodePush/CodePushConfig.m</tspan>
-<tspan x="10" y="1146"> 50.  2017-04-20 15:24:46 +0000     4831 bytes  ios/CodePush/CodePushDownloadHandler.m</tspan>
-<tspan x="10" y="1162"> 51.  2017-04-20 15:24:46 +0000      563 bytes  ios/CodePush/CodePushErrorUtils.m</tspan>
-<tspan x="10" y="1178"> 52.  2017-04-20 15:24:46 +0000    31381 bytes  ios/CodePush/CodePushPackage.m</tspan>
-<tspan x="10" y="1194"> 53.  2017-04-20 15:24:46 +0000     7056 bytes  ios/CodePush/CodePushTelemetryManager.m</tspan>
-<tspan x="10" y="1210"> 54.  2017-04-20 15:24:46 +0000    10936 bytes  ios/CodePush/CodePushUpdateUtils.m</tspan>
-<tspan x="10" y="1226"> 55.  2017-04-20 15:24:46 +0000      276 bytes  ios/CodePush/CodePushUtils.m</tspan>
-<tspan x="10" y="1242"> 56.  2017-04-20 15:24:46 +0000      748 bytes  ios/CodePush/RCTConvert+CodePushInstallMode.m</tspan>
-<tspan x="10" y="1258"> 57.  2017-04-20 15:24:46 +0000      760 bytes  ios/CodePush/RCTConvert+CodePushUpdateState.m</tspan>
-<tspan x="10" y="1274"> 58.  2017-04-20 15:24:46 +0000     4068 bytes  ios/CodePush/SSZipArchive/Common.h</tspan>
-<tspan x="10" y="1290"> 59.  2017-04-20 15:24:46 +0000      372 bytes  ios/CodePush/SSZipArchive/README.md</tspan>
-<tspan x="10" y="1306"> 60.  2017-04-20 15:24:46 +0000     4036 bytes  ios/CodePush/SSZipArchive/SSZipArchive.h</tspan>
-<tspan x="10" y="1322"> 61.  2017-04-20 15:24:46 +0000    29169 bytes  ios/CodePush/SSZipArchive/SSZipArchive.m</tspan>
-<tspan x="10" y="1338"> 62.  2017-04-20 15:24:46 +0000     7267 bytes  ios/CodePush/SSZipArchive/aes/aes.h</tspan>
-<tspan x="10" y="1354"> 63.  2017-04-20 15:24:46 +0000    17409 bytes  ios/CodePush/SSZipArchive/aes/aes_via_ace.h</tspan>
-<tspan x="10" y="1370"> 64.  2017-04-20 15:24:46 +0000    10139 bytes  ios/CodePush/SSZipArchive/aes/aescrypt.c</tspan>
-<tspan x="10" y="1386"> 65.  2017-04-20 15:24:46 +0000    16384 bytes  ios/CodePush/SSZipArchive/aes/aeskey.c</tspan>
-<tspan x="10" y="1402"> 66.  2017-04-20 15:24:46 +0000    26845 bytes  ios/CodePush/SSZipArchive/aes/aesopt.h</tspan>
-<tspan x="10" y="1418"> 67.  2017-04-20 15:24:46 +0000    15633 bytes  ios/CodePush/SSZipArchive/aes/aestab.c</tspan>
-<tspan x="10" y="1434"> 68.  2017-04-20 15:24:46 +0000     5332 bytes  ios/CodePush/SSZipArchive/aes/aestab.h</tspan>
-<tspan x="10" y="1450"> 69.  2017-04-20 15:24:46 +0000     5290 bytes  ios/CodePush/SSZipArchive/aes/brg_endian.h</tspan>
-<tspan x="10" y="1466"> 70.  2017-04-20 15:24:46 +0000     8194 bytes  ios/CodePush/SSZipArchive/aes/brg_types.h</tspan>
-<tspan x="10" y="1482"> 71.  2017-04-20 15:24:46 +0000     1039 bytes  ios/CodePush/SSZipArchive/aes/entropy.c</tspan>
-<tspan x="10" y="1498"> 72.  2017-04-20 15:24:46 +0000      208 bytes  ios/CodePush/SSZipArchive/aes/entropy.h</tspan>
-<tspan x="10" y="1514"> 73.  2017-04-20 15:24:46 +0000     4953 bytes  ios/CodePush/SSZipArchive/aes/fileenc.c</tspan>
-<tspan x="10" y="1530"> 74.  2017-04-20 15:24:46 +0000     4357 bytes  ios/CodePush/SSZipArchive/aes/fileenc.h</tspan>
-<tspan x="10" y="1546"> 75.  2017-04-20 15:24:46 +0000     5247 bytes  ios/CodePush/SSZipArchive/aes/hmac.c</tspan>
-<tspan x="10" y="1562"> 76.  2017-04-20 15:24:46 +0000     3043 bytes  ios/CodePush/SSZipArchive/aes/hmac.h</tspan>
-<tspan x="10" y="1578"> 77.  2017-04-20 15:24:46 +0000     5340 bytes  ios/CodePush/SSZipArchive/aes/prng.c</tspan>
-<tspan x="10" y="1594"> 78.  2017-04-20 15:24:46 +0000     3098 bytes  ios/CodePush/SSZipArchive/aes/prng.h</tspan>
-<tspan x="10" y="1610"> 79.  2017-04-20 15:24:46 +0000     3820 bytes  ios/CodePush/SSZipArchive/aes/pwd2key.c</tspan>
-<tspan x="10" y="1626"> 80.  2017-04-20 15:24:46 +0000     2053 bytes  ios/CodePush/SSZipArchive/aes/pwd2key.h</tspan>
-<tspan x="10" y="1642"> 81.  2017-04-20 15:24:46 +0000     8711 bytes  ios/CodePush/SSZipArchive/aes/sha1.c</tspan>
-<tspan x="10" y="1658"> 82.  2017-04-20 15:24:46 +0000     2430 bytes  ios/CodePush/SSZipArchive/aes/sha1.h</tspan>
-<tspan x="10" y="1674"> 83.  2017-04-20 15:24:46 +0000     4872 bytes  ios/CodePush/SSZipArchive/minizip/crypt.h</tspan>
-<tspan x="10" y="1690"> 84.  2017-04-20 15:24:46 +0000    12350 bytes  ios/CodePush/SSZipArchive/minizip/ioapi.c</tspan>
-<tspan x="10" y="1706"> 85.  2017-04-20 15:24:46 +0000     6925 bytes  ios/CodePush/SSZipArchive/minizip/ioapi.h</tspan>
-<tspan x="10" y="1722"> 86.  2017-04-20 15:24:46 +0000     8665 bytes  ios/CodePush/SSZipArchive/minizip/mztools.c</tspan>
-<tspan x="10" y="1738"> 87.  2017-04-20 15:24:46 +0000      677 bytes  ios/CodePush/SSZipArchive/minizip/mztools.h</tspan>
-<tspan x="10" y="1754"> 88.  2017-04-20 15:24:46 +0000    70903 bytes  ios/CodePush/SSZipArchive/minizip/unzip.c</tspan>
-<tspan x="10" y="1770"> 89.  2017-04-20 15:24:46 +0000    10523 bytes  ios/CodePush/SSZipArchive/minizip/unzip.h</tspan>
-<tspan x="10" y="1786"> 90.  2017-04-20 15:24:46 +0000    74937 bytes  ios/CodePush/SSZipArchive/minizip/zip.c</tspan>
-<tspan x="10" y="1802"> 91.  2017-04-20 15:24:46 +0000     9193 bytes  ios/CodePush/SSZipArchive/minizip/zip.h</tspan>
-<tspan x="10" y="1818"> 92.  2017-04-20 15:24:46 +0000      147 bytes  logging.js</tspan>
-<tspan x="10" y="1834"> 93.  2017-04-20 15:24:46 +0000     2530 bytes  package-mixins.js</tspan>
-<tspan x="10" y="1850"> 94.  2017-04-20 15:24:46 +0000     1593 bytes  package.json</tspan>
-<tspan x="10" y="1866"> 95.  2017-04-20 15:24:46 +0000     1290 bytes  request-fetch-adapter.js</tspan>
-<tspan x="10" y="1882"> 96.  2017-04-20 15:24:46 +0000     4501 bytes  scripts/generateBundledResourcesHash.js</tspan>
-<tspan x="10" y="1898"> 97.  2017-04-20 15:24:46 +0000      646 bytes  scripts/getFilesInFolder.js</tspan>
-<tspan x="10" y="1914"> 98.  2017-04-20 15:24:46 +0000     3795 bytes  scripts/postlink/android/postlink.js</tspan>
-<tspan x="10" y="1930"> 99.  2017-04-20 15:24:46 +0000     6997 bytes  scripts/postlink/ios/postlink.js</tspan>
-<tspan x="10" y="1946">100.  2017-04-20 15:24:46 +0000       57 bytes  scripts/postlink/run.js</tspan>
-<tspan x="10" y="1962">101.  2017-04-20 15:24:46 +0000     1371 bytes  scripts/recordFilesBeforeBundleCommand.js</tspan>
-<tspan x="10" y="1978">102.  2017-04-20 15:24:46 +0000    14501 bytes  typings/react-native-code-push.d.ts</tspan>
-<tspan x="10" y="1994">103.  2017-04-20 15:24:46 +0000      666 bytes  windows/CodePush.Net46/Adapters/Http/HttpProgres\</tspan>
+<tspan x="10" y="1098"> 47.  2017-04-26 05:47:04 +0000     6511 bytes  ios/CodePush/CodePush.h</tspan>
+<tspan x="10" y="1114"> 48.  2017-04-26 05:47:04 +0000    34050 bytes  ios/CodePush/CodePush.m</tspan>
+<tspan x="10" y="1130"> 49.  2017-04-26 05:47:04 +0000     3015 bytes  ios/CodePush/CodePushConfig.m</tspan>
+<tspan x="10" y="1146"> 50.  2017-04-26 05:47:04 +0000     4831 bytes  ios/CodePush/CodePushDownloadHandler.m</tspan>
+<tspan x="10" y="1162"> 51.  2017-04-26 05:47:04 +0000      563 bytes  ios/CodePush/CodePushErrorUtils.m</tspan>
+<tspan x="10" y="1178"> 52.  2017-04-26 05:47:04 +0000    31381 bytes  ios/CodePush/CodePushPackage.m</tspan>
+<tspan x="10" y="1194"> 53.  2017-04-26 05:47:04 +0000     7056 bytes  ios/CodePush/CodePushTelemetryManager.m</tspan>
+<tspan x="10" y="1210"> 54.  2017-04-26 05:47:04 +0000    10936 bytes  ios/CodePush/CodePushUpdateUtils.m</tspan>
+<tspan x="10" y="1226"> 55.  2017-04-26 05:47:04 +0000      276 bytes  ios/CodePush/CodePushUtils.m</tspan>
+<tspan x="10" y="1242"> 56.  2017-04-26 05:47:04 +0000      748 bytes  ios/CodePush/RCTConvert+CodePushInstallMode.m</tspan>
+<tspan x="10" y="1258"> 57.  2017-04-26 05:47:04 +0000      760 bytes  ios/CodePush/RCTConvert+CodePushUpdateState.m</tspan>
+<tspan x="10" y="1274"> 58.  2017-04-26 05:47:04 +0000     4068 bytes  ios/CodePush/SSZipArchive/Common.h</tspan>
+<tspan x="10" y="1290"> 59.  2017-04-26 05:47:04 +0000      372 bytes  ios/CodePush/SSZipArchive/README.md</tspan>
+<tspan x="10" y="1306"> 60.  2017-04-26 05:47:04 +0000     4036 bytes  ios/CodePush/SSZipArchive/SSZipArchive.h</tspan>
+<tspan x="10" y="1322"> 61.  2017-04-26 05:47:04 +0000    29169 bytes  ios/CodePush/SSZipArchive/SSZipArchive.m</tspan>
+<tspan x="10" y="1338"> 62.  2017-04-26 05:47:04 +0000     7267 bytes  ios/CodePush/SSZipArchive/aes/aes.h</tspan>
+<tspan x="10" y="1354"> 63.  2017-04-26 05:47:04 +0000    17409 bytes  ios/CodePush/SSZipArchive/aes/aes_via_ace.h</tspan>
+<tspan x="10" y="1370"> 64.  2017-04-26 05:47:04 +0000    10139 bytes  ios/CodePush/SSZipArchive/aes/aescrypt.c</tspan>
+<tspan x="10" y="1386"> 65.  2017-04-26 05:47:04 +0000    16384 bytes  ios/CodePush/SSZipArchive/aes/aeskey.c</tspan>
+<tspan x="10" y="1402"> 66.  2017-04-26 05:47:04 +0000    26845 bytes  ios/CodePush/SSZipArchive/aes/aesopt.h</tspan>
+<tspan x="10" y="1418"> 67.  2017-04-26 05:47:04 +0000    15633 bytes  ios/CodePush/SSZipArchive/aes/aestab.c</tspan>
+<tspan x="10" y="1434"> 68.  2017-04-26 05:47:04 +0000     5332 bytes  ios/CodePush/SSZipArchive/aes/aestab.h</tspan>
+<tspan x="10" y="1450"> 69.  2017-04-26 05:47:04 +0000     5290 bytes  ios/CodePush/SSZipArchive/aes/brg_endian.h</tspan>
+<tspan x="10" y="1466"> 70.  2017-04-26 05:47:04 +0000     8194 bytes  ios/CodePush/SSZipArchive/aes/brg_types.h</tspan>
+<tspan x="10" y="1482"> 71.  2017-04-26 05:47:04 +0000     1039 bytes  ios/CodePush/SSZipArchive/aes/entropy.c</tspan>
+<tspan x="10" y="1498"> 72.  2017-04-26 05:47:04 +0000      208 bytes  ios/CodePush/SSZipArchive/aes/entropy.h</tspan>
+<tspan x="10" y="1514"> 73.  2017-04-26 05:47:04 +0000     4953 bytes  ios/CodePush/SSZipArchive/aes/fileenc.c</tspan>
+<tspan x="10" y="1530"> 74.  2017-04-26 05:47:04 +0000     4357 bytes  ios/CodePush/SSZipArchive/aes/fileenc.h</tspan>
+<tspan x="10" y="1546"> 75.  2017-04-26 05:47:04 +0000     5247 bytes  ios/CodePush/SSZipArchive/aes/hmac.c</tspan>
+<tspan x="10" y="1562"> 76.  2017-04-26 05:47:04 +0000     3043 bytes  ios/CodePush/SSZipArchive/aes/hmac.h</tspan>
+<tspan x="10" y="1578"> 77.  2017-04-26 05:47:04 +0000     5340 bytes  ios/CodePush/SSZipArchive/aes/prng.c</tspan>
+<tspan x="10" y="1594"> 78.  2017-04-26 05:47:04 +0000     3098 bytes  ios/CodePush/SSZipArchive/aes/prng.h</tspan>
+<tspan x="10" y="1610"> 79.  2017-04-26 05:47:04 +0000     3820 bytes  ios/CodePush/SSZipArchive/aes/pwd2key.c</tspan>
+<tspan x="10" y="1626"> 80.  2017-04-26 05:47:04 +0000     2053 bytes  ios/CodePush/SSZipArchive/aes/pwd2key.h</tspan>
+<tspan x="10" y="1642"> 81.  2017-04-26 05:47:04 +0000     8711 bytes  ios/CodePush/SSZipArchive/aes/sha1.c</tspan>
+<tspan x="10" y="1658"> 82.  2017-04-26 05:47:04 +0000     2430 bytes  ios/CodePush/SSZipArchive/aes/sha1.h</tspan>
+<tspan x="10" y="1674"> 83.  2017-04-26 05:47:04 +0000     4872 bytes  ios/CodePush/SSZipArchive/minizip/crypt.h</tspan>
+<tspan x="10" y="1690"> 84.  2017-04-26 05:47:04 +0000    12350 bytes  ios/CodePush/SSZipArchive/minizip/ioapi.c</tspan>
+<tspan x="10" y="1706"> 85.  2017-04-26 05:47:04 +0000     6925 bytes  ios/CodePush/SSZipArchive/minizip/ioapi.h</tspan>
+<tspan x="10" y="1722"> 86.  2017-04-26 05:47:04 +0000     8665 bytes  ios/CodePush/SSZipArchive/minizip/mztools.c</tspan>
+<tspan x="10" y="1738"> 87.  2017-04-26 05:47:04 +0000      677 bytes  ios/CodePush/SSZipArchive/minizip/mztools.h</tspan>
+<tspan x="10" y="1754"> 88.  2017-04-26 05:47:04 +0000    70903 bytes  ios/CodePush/SSZipArchive/minizip/unzip.c</tspan>
+<tspan x="10" y="1770"> 89.  2017-04-26 05:47:04 +0000    10523 bytes  ios/CodePush/SSZipArchive/minizip/unzip.h</tspan>
+<tspan x="10" y="1786"> 90.  2017-04-26 05:47:04 +0000    74937 bytes  ios/CodePush/SSZipArchive/minizip/zip.c</tspan>
+<tspan x="10" y="1802"> 91.  2017-04-26 05:47:04 +0000     9193 bytes  ios/CodePush/SSZipArchive/minizip/zip.h</tspan>
+<tspan x="10" y="1818"> 92.  2017-04-26 05:47:04 +0000      147 bytes  logging.js</tspan>
+<tspan x="10" y="1834"> 93.  2017-04-26 05:47:04 +0000     2530 bytes  package-mixins.js</tspan>
+<tspan x="10" y="1850"> 94.  2017-04-26 05:47:04 +0000     4117 bytes  package.json</tspan>
+<tspan x="10" y="1866"> 95.  2017-04-26 05:47:04 +0000     1290 bytes  request-fetch-adapter.js</tspan>
+<tspan x="10" y="1882"> 96.  2017-04-26 05:47:04 +0000     4501 bytes  scripts/generateBundledResourcesHash.js</tspan>
+<tspan x="10" y="1898"> 97.  2017-04-26 05:47:04 +0000      646 bytes  scripts/getFilesInFolder.js</tspan>
+<tspan x="10" y="1914"> 98.  2017-04-26 05:47:04 +0000     3795 bytes  scripts/postlink/android/postlink.js</tspan>
+<tspan x="10" y="1930"> 99.  2017-04-26 05:47:04 +0000     6997 bytes  scripts/postlink/ios/postlink.js</tspan>
+<tspan x="10" y="1946">100.  2017-04-26 05:47:04 +0000       57 bytes  scripts/postlink/run.js</tspan>
+<tspan x="10" y="1962">101.  2017-04-26 05:47:04 +0000     1371 bytes  scripts/recordFilesBeforeBundleCommand.js</tspan>
+<tspan x="10" y="1978">102.  2017-04-26 05:47:04 +0000    14501 bytes  typings/react-native-code-push.d.ts</tspan>
+<tspan x="10" y="1994">103.  2017-04-26 05:47:04 +0000      666 bytes  windows/CodePush.Net46/Adapters/Http/HttpProgres\</tspan>
 <tspan x="10" y="2010">s.cs</tspan>
-<tspan x="10" y="2026">104.  2017-04-20 15:24:46 +0000     2831 bytes  windows/CodePush.Net46/Adapters/Storage/Applicat\</tspan>
+<tspan x="10" y="2026">104.  2017-04-26 05:47:04 +0000     2831 bytes  windows/CodePush.Net46/Adapters/Storage/Applicat\</tspan>
 <tspan x="10" y="2042">ionDataContainer.cs</tspan>
-<tspan x="10" y="2058">105.  2017-04-20 15:24:46 +0000     5077 bytes  windows/CodePush.Net46/CodePush.Net46.csproj</tspan>
-<tspan x="10" y="2074">106.  2017-04-20 15:24:46 +0000     2497 bytes  windows/CodePush.Net46/CodePushUtils.cs</tspan>
-<tspan x="10" y="2090">107.  2017-04-20 15:24:46 +0000     2303 bytes  windows/CodePush.Net46/FileUtils.cs</tspan>
-<tspan x="10" y="2106">108.  2017-04-20 15:24:46 +0000     1404 bytes  windows/CodePush.Net46/Properties/AssemblyInfo.c\</tspan>
+<tspan x="10" y="2058">105.  2017-04-26 05:47:04 +0000     5077 bytes  windows/CodePush.Net46/CodePush.Net46.csproj</tspan>
+<tspan x="10" y="2074">106.  2017-04-26 05:47:04 +0000     2497 bytes  windows/CodePush.Net46/CodePushUtils.cs</tspan>
+<tspan x="10" y="2090">107.  2017-04-26 05:47:04 +0000     2303 bytes  windows/CodePush.Net46/FileUtils.cs</tspan>
+<tspan x="10" y="2106">108.  2017-04-26 05:47:04 +0000     1404 bytes  windows/CodePush.Net46/Properties/AssemblyInfo.c\</tspan>
 <tspan x="10" y="2122">s</tspan>
-<tspan x="10" y="2138">109.  2017-04-20 15:24:46 +0000    15029 bytes  windows/CodePush.Net46/UpdateManager.cs</tspan>
-<tspan x="10" y="2154">110.  2017-04-20 15:24:46 +0000     2935 bytes  windows/CodePush.Net46/UpdateUtils.cs</tspan>
-<tspan x="10" y="2170">111.  2017-04-20 15:24:46 +0000      210 bytes  windows/CodePush.Net46/packages.config</tspan>
-<tspan x="10" y="2186">112.  2017-04-20 15:24:46 +0000     1102 bytes  windows/CodePush.Shared/CodePush.Shared.projitem\</tspan>
+<tspan x="10" y="2138">109.  2017-04-26 05:47:04 +0000    15029 bytes  windows/CodePush.Net46/UpdateManager.cs</tspan>
+<tspan x="10" y="2154">110.  2017-04-26 05:47:04 +0000     2935 bytes  windows/CodePush.Net46/UpdateUtils.cs</tspan>
+<tspan x="10" y="2170">111.  2017-04-26 05:47:04 +0000      210 bytes  windows/CodePush.Net46/packages.config</tspan>
+<tspan x="10" y="2186">112.  2017-04-26 05:47:04 +0000     1102 bytes  windows/CodePush.Shared/CodePush.Shared.projitem\</tspan>
 <tspan x="10" y="2202">s</tspan>
-<tspan x="10" y="2218">113.  2017-04-20 15:24:46 +0000     1066 bytes  windows/CodePush.Shared/CodePush.Shared.shproj</tspan>
-<tspan x="10" y="2234">114.  2017-04-20 15:24:46 +0000     2059 bytes  windows/CodePush.Shared/CodePushConstants.cs</tspan>
-<tspan x="10" y="2250">115.  2017-04-20 15:24:46 +0000    11109 bytes  windows/CodePush.Shared/CodePushNativeModule.cs</tspan>
-<tspan x="10" y="2266">116.  2017-04-20 15:24:46 +0000     7244 bytes  windows/CodePush.Shared/CodePushReactPackage.cs</tspan>
-<tspan x="10" y="2282">117.  2017-04-20 15:24:46 +0000     1937 bytes  windows/CodePush.Shared/CodePushUtils.cs</tspan>
-<tspan x="10" y="2298">118.  2017-04-20 15:24:46 +0000      133 bytes  windows/CodePush.Shared/InstallMode.cs</tspan>
-<tspan x="10" y="2314">119.  2017-04-20 15:24:46 +0000     1362 bytes  windows/CodePush.Shared/MinimumBackgroundListene\</tspan>
+<tspan x="10" y="2218">113.  2017-04-26 05:47:04 +0000     1066 bytes  windows/CodePush.Shared/CodePush.Shared.shproj</tspan>
+<tspan x="10" y="2234">114.  2017-04-26 05:47:04 +0000     2059 bytes  windows/CodePush.Shared/CodePushConstants.cs</tspan>
+<tspan x="10" y="2250">115.  2017-04-26 05:47:04 +0000    11109 bytes  windows/CodePush.Shared/CodePushNativeModule.cs</tspan>
+<tspan x="10" y="2266">116.  2017-04-26 05:47:04 +0000     7244 bytes  windows/CodePush.Shared/CodePushReactPackage.cs</tspan>
+<tspan x="10" y="2282">117.  2017-04-26 05:47:04 +0000     1937 bytes  windows/CodePush.Shared/CodePushUtils.cs</tspan>
+<tspan x="10" y="2298">118.  2017-04-26 05:47:04 +0000      133 bytes  windows/CodePush.Shared/InstallMode.cs</tspan>
+<tspan x="10" y="2314">119.  2017-04-26 05:47:04 +0000     1362 bytes  windows/CodePush.Shared/MinimumBackgroundListene\</tspan>
 <tspan x="10" y="2330">r.cs</tspan>
-<tspan x="10" y="2346">120.  2017-04-20 15:24:46 +0000     4393 bytes  windows/CodePush.Shared/SettingsManager.cs</tspan>
-<tspan x="10" y="2362">121.  2017-04-20 15:24:46 +0000      119 bytes  windows/CodePush.Shared/UpdateState.cs</tspan>
-<tspan x="10" y="2378">122.  2017-04-20 15:24:46 +0000     5674 bytes  windows/CodePush/CodePush.csproj</tspan>
-<tspan x="10" y="2394">123.  2017-04-20 15:24:46 +0000     1140 bytes  windows/CodePush/CodePushUtils.cs</tspan>
-<tspan x="10" y="2410">124.  2017-04-20 15:24:46 +0000     1942 bytes  windows/CodePush/FileUtils.cs</tspan>
-<tspan x="10" y="2426">125.  2017-04-20 15:24:46 +0000     1036 bytes  windows/CodePush/Properties/AssemblyInfo.cs</tspan>
-<tspan x="10" y="2442">126.  2017-04-20 15:24:46 +0000     1538 bytes  windows/CodePush/Properties/CodePush.rd.xml</tspan>
-<tspan x="10" y="2458">127.  2017-04-20 15:24:46 +0000    15144 bytes  windows/CodePush/UpdateManager.cs</tspan>
-<tspan x="10" y="2474">128.  2017-04-20 15:24:46 +0000     1928 bytes  windows/CodePush/UpdateUtils.cs</tspan>
-<tspan x="10" y="2490">129.  2017-04-20 15:24:46 +0000      319 bytes  windows/CodePush/project.json</tspan>
+<tspan x="10" y="2346">120.  2017-04-26 05:47:04 +0000     4393 bytes  windows/CodePush.Shared/SettingsManager.cs</tspan>
+<tspan x="10" y="2362">121.  2017-04-26 05:47:04 +0000      119 bytes  windows/CodePush.Shared/UpdateState.cs</tspan>
+<tspan x="10" y="2378">122.  2017-04-26 05:47:04 +0000     5674 bytes  windows/CodePush/CodePush.csproj</tspan>
+<tspan x="10" y="2394">123.  2017-04-26 05:47:04 +0000     1140 bytes  windows/CodePush/CodePushUtils.cs</tspan>
+<tspan x="10" y="2410">124.  2017-04-26 05:47:04 +0000     1942 bytes  windows/CodePush/FileUtils.cs</tspan>
+<tspan x="10" y="2426">125.  2017-04-26 05:47:04 +0000     1036 bytes  windows/CodePush/Properties/AssemblyInfo.cs</tspan>
+<tspan x="10" y="2442">126.  2017-04-26 05:47:04 +0000     1538 bytes  windows/CodePush/Properties/CodePush.rd.xml</tspan>
+<tspan x="10" y="2458">127.  2017-04-26 05:47:04 +0000    15144 bytes  windows/CodePush/UpdateManager.cs</tspan>
+<tspan x="10" y="2474">128.  2017-04-26 05:47:04 +0000     1928 bytes  windows/CodePush/UpdateUtils.cs</tspan>
+<tspan x="10" y="2490">129.  2017-04-26 05:47:04 +0000      319 bytes  windows/CodePush/project.json</tspan>
 </text>
 </svg>
