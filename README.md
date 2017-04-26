@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-react-native-code-push/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-code-push/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-react-native-code-push/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-react-native-code-push/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-code-push/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-code-push/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-react-native-code-push/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-react-native-code-push/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-react-native-code-push/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-react-native-code-push/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-react-native-code-push/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-react-native-code-push/build/coverage.html/index.html)
 
@@ -35,22 +35,11 @@
 ```json
 
 {
-    "name": "react-native-code-push",
-    "version": "2.0.2-beta",
-    "description": "React Native plugin for the CodePush service",
-    "main": "CodePush.js",
-    "typings": "typings/react-native-code-push.d.ts",
-    "homepage": "https://microsoft.github.io/code-push",
-    "keywords": [
-        "react-native",
-        "code",
-        "push"
-    ],
-    "author": "Microsoft Corporation",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Microsoft/react-native-code-push"
+    "author": {
+        "name": "Microsoft Corporation"
+    },
+    "bugs": {
+        "url": "https://github.com/Microsoft/react-native-code-push/issues"
     },
     "dependencies": {
         "code-push": "1.8.0-beta",
@@ -59,6 +48,7 @@
         "plist": "1.2.0",
         "xcode": "0.9.2"
     },
+    "description": "React Native plugin for the CodePush service",
     "devDependencies": {
         "archiver": "latest",
         "body-parser": "latest",
@@ -73,6 +63,52 @@
         "run-sequence": "latest",
         "tslint": "^4.3.1",
         "typescript": "^2.1.5"
+    },
+    "directories": {},
+    "dist": {
+        "shasum": "aa3732cc7b9d8697d1da5f80c4a812629e0df37b",
+        "tarball": "https://registry.npmjs.org/react-native-code-push/-/react-native-code-push-2.0.2-beta.tgz"
+    },
+    "gitHead": "9cbbe958b481f677afea6475b31707c166971127",
+    "homepage": "https://microsoft.github.io/code-push",
+    "keywords": [
+        "react-native",
+        "code",
+        "push"
+    ],
+    "license": "MIT",
+    "main": "CodePush.js",
+    "maintainers": [
+        {
+            "name": "axemclion"
+        },
+        {
+            "name": "bokang"
+        },
+        {
+            "name": "bretjohnson"
+        },
+        {
+            "name": "max-mironov"
+        },
+        {
+            "name": "maximpop"
+        },
+        {
+            "name": "pniko"
+        },
+        {
+            "name": "ryanjsalva"
+        },
+        {
+            "name": "silhouettes"
+        }
+    ],
+    "name": "react-native-code-push",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Microsoft/react-native-code-push.git"
     },
     "rnpm": {
         "android": {
@@ -93,7 +129,11 @@
         "commands": {
             "postlink": "node node_modules/react-native-code-push/scripts/postlink/run"
         }
-    }
+    },
+    "scripts": {},
+    "typings": "typings/react-native-code-push.d.ts",
+    "version": "2.0.2-beta",
+    "bin": {}
 }
 ```
 
